@@ -6,14 +6,16 @@ Plus, I never made a todo list when I started out programming, like many others 
 
 # How it's going
 - Users can add and delete todos
+- Users can toggle whether a todo is completed
 - It doesn't crash lol
 - [backend server repo](https://github.com/rubb3rDucc/todo_list_server)
 
 # Todos for the Todos
 - [ ] The API route/url for toggling whether the todo is completed or not does not work when setting the toggle to false.
 - [ ] Can not edit todos
-- [ ] The app looks ugly
-- [ ] User login/logout does not work and it's currently set on one user for testing the dashboard functionality
+- [ ] The app looks ugly and needs a visual update
+- [x] <s>User login/logout does not work and it's currently set on one user for testing the dashboard functionality</s>
+- [ ] Todo components do not visually update after changes, needs a manual page refresh
 - [ ] Setup CI/CD pipeline with Github Actions with either Node or Docker, or both.
 
 # React + Vite
